@@ -52,3 +52,27 @@ h2{
 
 }
 /*end of bio*/
+
+/*targets the html id attribute me*/
+
+#me{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	border-width:5px;
+	border-color: indianred;
+	border-style: solid;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+/*end of me*/
+
+/*targets class container*/
+.container{
+	/*background-image:url (../images/bg2.jpg);*/
+	width:500px;
+	margin:0 auto;
+	text-align: center;
+
+}
+/*end of container*/
